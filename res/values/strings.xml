@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AF-Final</string>
+
+    <string-array name="categorias">
+    <item>Farmácia</item>
+    <item>Hospital</item>
+    <item>Restaurante</item>
+    <item>Escola</item>
+    <item>Mercado</item>
+        <item>praças</item>
+</string-array>
+</resources>
